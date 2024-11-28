@@ -6,4 +6,3 @@ This is a ReactJS weather application that fetches real-time weather data from O
 - Search weather by city.
 - Display temperature, humidity, and weather condition.
 - Show weather icons dynamically.
-- 
